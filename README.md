@@ -39,7 +39,7 @@ Examples
 
 To download the 5.15.71-2.2.0 release
 ```
-$: repo init -u https://github.com/Advantech-IIoT/adv-imx-manifest -b adv-imx-linux-kirkstone -m adv-imx-5.15.71-2.2.0.xml
+$: repo init -u https://github.com/Advantech-IIoT/ecu-adv-imx-manifest -b adv-imx-linux-kirkstone -m adv-imx-5.15.71-2.2.0.xml
 ```
 
 Setup the build folder for a BSP release:
